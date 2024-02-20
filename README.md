@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on supporting business cyborgs
+- 🌱 I’m currently learning python and AI
+- 👯 I’m looking to collaborate on new ventures
+- 🤔 I’m looking for help with ai tools
 
 <!--
 **tekelala/tekelala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
